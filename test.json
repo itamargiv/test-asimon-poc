@@ -1,0 +1,241 @@
+{
+    "font": {
+        "family": {
+            "sans": {
+                "value": "-apple-system, 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Lato', 'Helvetica', 'Arial', sans-serif"
+            },
+            "serif": {
+                "value": "'Linux Libertine', 'Georgia', 'Times', serif"
+            },
+            "monospace": {
+                "value": "'Menlo', 'Consolas', 'Liberation Mono', 'Courier New', monospace"
+            }
+        },
+        "weight": {
+            "regular": {
+                "value": "400"
+            },
+            "bold": {
+                "value": "600"
+            }
+        },
+        "line-height": {
+            "small": {
+                "value": "1.25"
+            },
+            "medium": {
+                "value": "1.5"
+            },
+            "large": {
+                "value": "1.6"
+            }
+        }
+    },
+    "color": {
+        "base": {
+            "0": {
+                "value": "#000"
+            },
+            "10": {
+                "value": "#202122"
+            },
+            "20": {
+                "value": "#54595d"
+            },
+            "30": {
+                "value": "#72777d"
+            },
+            "50": {
+                "value": "#a2a9b1"
+            },
+            "70": {
+                "value": "#c8ccd1"
+            },
+            "80": {
+                "value": "#eaecf0"
+            },
+            "90": {
+                "value": "#f8f9fa"
+            },
+            "100": {
+                "value": "#fff"
+            }
+        },
+        "accent": {
+            "30": {
+                "value": "#2a4b8d"
+            },
+            "50": {
+                "value": "#36c"
+            },
+            "90": {
+                "value": "#eaf3ff"
+            }
+        },
+        "utility": {
+            "red": {
+                "30": {
+                    "value": "#b32424"
+                },
+                "50": {
+                    "value": "#d33"
+                },
+                "90": {
+                    "value": "#fee7e6"
+                }
+            },
+            "green": {
+                "30": {
+                    "value": "#14866d"
+                },
+                "50": {
+                    "value": "#00af89"
+                },
+                "90": {
+                    "value": "#d5fdf4"
+                }
+            },
+            "yellow": {
+                "30": {
+                    "value": "#ac6600"
+                },
+                "50": {
+                    "value": "#fc3"
+                },
+                "90": {
+                    "value": "#fef6e7"
+                }
+            }
+        },
+        "interaction": {
+            "primary-hover": {
+                "value": "#447ff5"
+            },
+            "destructive-active": {
+                "value": "#D11D13"
+            }
+        }
+    },
+    "dimension": {
+        "font": {
+            "size": {
+                "xsmall": {
+                    "value": "13px"
+                },
+                "small": {
+                    "value": "14px"
+                },
+                "medium": {
+                    "value": "16px"
+                },
+                "large": {
+                    "value": "18px"
+                },
+                "xlarge": {
+                    "value": "20px"
+                },
+                "xxlarge": {
+                    "value": "24px"
+                },
+                "xxxlarge": {
+                    "value": "32px"
+                }
+            }
+        },
+        "static": {
+            "size": {
+                "0": {
+                    "value": "0px"
+                },
+                "10": {
+                    "value": "1px"
+                },
+                "25": {
+                    "value": "2px"
+                },
+                "50": {
+                    "value": "4px"
+                },
+                "65": {
+                    "value": "5px"
+                },
+                "100": {
+                    "value": "8px"
+                },
+                "110": {
+                    "value": "9px"
+                },
+                "150": {
+                    "value": "12px"
+                },
+                "200": {
+                    "value": "16px"
+                },
+                "250": {
+                    "value": "20px"
+                },
+                "300": {
+                    "value": "24px"
+                },
+                "400": {
+                    "value": "32px"
+                },
+                "500": {
+                    "value": "40px"
+                }
+            }
+        }
+    },
+    "transition": {
+        "duration": {
+            "fast": {
+                "value": "100ms"
+            },
+            "regular": {
+                "value": "200ms"
+            },
+            "slower": {
+                "value": "300ms"
+            },
+            "slowest": {
+                "value": "400ms"
+            }
+        },
+        "property": {
+            "background-color":{
+                "value": "background-color"
+            },
+            "border-color":{
+                "value": "border-color"
+            },
+            "box-shadow":{
+                "value": "box-shadow"
+            }
+        }
+    },
+    "box-shadow": {
+        "inset": {
+            "thin": {
+                "value": "inset 0 0 0 1px"
+            },
+            "thick": {
+                "value": "inset 0 0 0 2px"
+            }
+        }
+    },
+
+    "cursor": {
+        "default":{
+            "value": "default"
+        },
+        "grab":{
+            "value": "grab"
+        },
+        "pointer":{
+            "value": "pointer"
+        },
+        "not-allowed":{
+            "value": "not-allowed"
+        } 
+    }
+}
